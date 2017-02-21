@@ -1,0 +1,237 @@
+2016-10-27 23:48:22,206 main INFO  a00884836.BCMC (BCMC.java:91) - 2016-10-28T06:48:22.206Z
+2016-10-27 23:48:22,378 main INFO  io.ReportGenerator (ReportGenerator.java:60) - Customer report
+2016-10-27 23:48:22,378 main INFO  io.ReportGenerator (ReportGenerator.java:61) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:48:22,378 main INFO  io.ReportGenerator (ReportGenerator.java:62) -   #. ID     First name   Last name    Street                    City         Postal Code  Phone           Email                    Join Date   
+2016-10-27 23:48:22,378 main INFO  io.ReportGenerator (ReportGenerator.java:63) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:48:22,393 main INFO  io.ReportGenerator (ReportGenerator.java:70) -   1. 003997 Fred         Fish         5707 Sidley St            Burnaby      V5J 5E6      (604) 433-5004  fredfish@imperial.net    Feb 22 2008 
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:70) -   2. 002540 Laurie       Nash         2816 Commercial Dr        Vancouver    V5N 4C6      (604) 876-0182  laurieeenash@modern.com  Jul 28 2014 
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:70) -   3. 001824 Conrad       Washington   13479 King George Blvd    Surrey       V3T 2T8      (604) 588-4988  cwash@daytona.net        Jun 12 2011 
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:70) -   4. 004653 Jeanette     Price        21000 Westminster Hwy     Richmond     V6V 2S9      (604) 276-2552  priceizrite@pacific.com  Sep 03 2015 
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:70) -   5. 003947 Mark         Chan         3766 E 1st Ave            Burnaby      V5C 3V9      (604) 293-1022  mchan@hcenter.com        Mar 01 2010 
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:75) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:101) - Service report
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:102) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:103) - First name  Last name     Make               Model           Year   Mileage
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:104) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Fred        Fish          Suzuki             V-Strom 1000    2007   31680  
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Laurie      Nash          Honda              CB1100          2015   1106   
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Laurie      Nash          Ducati             Monster 696     2009   32000  
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Conrad      Washington    Yamaha             Bolt            2015   751    
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Conrad      Washington    Harley Davidson    Sportster       2002   36000  
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Jeanette    Price         Triumph            Tiger           2012   22683  
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Mark        Chan          BMW                R75/5           1972   63000  
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:110) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:115) - Inventory report
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:116) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:117) - Make+Model                   Description                Part#           Price     Quantity
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:118) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                ASA-BOLT                   7129907050        225           19
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                BEARING SHELL              1277690501       4095           18
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                BOLT                       1277722182       8954           10
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                CLIP NUT                   1127070202        111          257
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                CONNECTING ROD WITH BUSHING 1248542008      17835            6
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                COUNTERSUNK HEAD SCREW     32727673989       534          262
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                FILLISTER-HEAD SCREW       32722333066       314          248
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                HEAT EXCHANGER, BLACK      1538524136      19502            1
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                ISA SCREW                  7129905601        353          935
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                ISA SCREW WITH WASHER      7129905537        268          281
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                PLASTIC BUSH               5417674080        214          163
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                RING                       1427677987        351          291
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                SCREW                      6147713360         99          242
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                SELECTOR ROD               3418522956       4778           21
+2016-10-27 23:48:22,409 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                SHIFT LEVER, SILVER        3417688853      16915            5
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                TURN INDICATOR             3138534352       7205           19
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                WASHER                     7727706469       1985           27
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  ASA-BOLT                   7129907050        225          802
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  BELTGUARD, BOTTOM EXT      6628526814       2564           59
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  CIRCLIP                    7119901545        209          600
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  COLLAR SCREW               7727689584        726            4
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  CONNECTING ROD BOLT        1277688360       1781           82
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  COVER FOR FUEL PUMP        6147693055       2864           36
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  ISA SCREW                  7129905769        263          523
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  O-RING                     1447687367        218          830
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  SAFETY CLIP                7119987611        182          593
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  SLEEVE                     1427677988        242           40
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  STRAINER                   6147708314       8028            5
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  TORX BOLT                  2317707433        257          646
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  TURN INDICATOR             3138534353       7205            5
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  WASHER                     7119904164        295          380
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 BALANCE ROD WITH ROCKER    1277702426      66603            0
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 BELT WHEEL, REAR           7727678299      56965            2
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 BULB                       3217169203        515          114
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 COUNTER NUT                32727678101       715           15
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 FLAT NUT                   6637659955        245          583
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 FOOTREST, RIGHT            6717700914       8031            1
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 HEX NUT                    7119904920        237          465
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 ISA SCREW                  7129904261        344          323
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 NIPPLE                     1447687378       3775            2
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 RETAINER SPRING            6717660163        408          138
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 SLEEVE                     32727673990       905           53
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 STOPPER                    6712330765        803           84
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 VOLTAGE REGULATOR          1312346550      18876            8
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 WASHER                     7119907030        695           71
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    BALL PIN                   7147202359        349           20
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    BRACKET, GENERATOR REGULATOR 1317690871       2862           34
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    CLUTCH LEVER               32727705606      9972           17
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    COLLAR BUSH                6717700591       1385           19
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    FILLISTER HEAD SCREW       1117653180        257         1134
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    FOOTREST, LEFT             6717700913       8031           13
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    FUEL PUMP, ELECTRONIC      6148523262      19286            8
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    HOSE RUNNING METER         3547709426       3556           18
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    ISA SCREW                  7129904700        248          795
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    ISA SCREW                  7129903807        227          663
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    LAMP LENS                  3138534351       1862           44
+2016-10-27 23:48:22,424 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    SCREW PLUG                 1447687368        272          135
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    SHEET METAL SCREW          7119906189        102          686
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    SUPPORTING RING            6141182903        987          104
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    WOODRUFF KEY               1272343243        491          580
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Harley Davidson+Sportster    BELT PULLEY                7727706466      51292            1
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Harley Davidson+Sportster    BINDING HEAD SCREW         6627711971        159         1038
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Harley Davidson+Sportster    BRACKET                    1427653150       4095           48
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Harley Davidson+Sportster    FEED PIPE                  6147708313       4122           10
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Harley Davidson+Sportster    HOSE                       7217686971        779          279
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Harley Davidson+Sportster    HOSE CLAMP                 1731277848        614          264
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Harley Davidson+Sportster    ISA SCREW                  7129904261        344          580
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Harley Davidson+Sportster    OIL FILTER, BLACK          1427719357       1509          175
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           BELTGUARD, TOP EXTERIOR    7727686588       2773           39
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           BOWDEN CAB ADJUSTMENT SCREW 32727678100      1831           20
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           BUSHING                    3417680761        932          201
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           CLAMP WITH MIRROR MOUNT    32728533246      3002           44
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           CLUTCH LEVER ASSEMBLY, ADJUS 32728523463     19337            7
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           FOOTPEG PLATE RIGHT        6718534960      31995            5
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           ISA SCREW                  7129907375        502          444
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           ISA SCREW                  7129906038        343          163
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           OVAL HEAD SCREW            4117672808        295          325
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           PREFORMED SEAL             1447687365        816           66
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           REPAIR KIT FOR JERK DAMPER 7727711036      10888            9
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           SELF-LOCKING HEX NUT       32727680378       378          238
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           STEERING DAMPER            1427653149      38809            5
+2016-10-27 23:48:22,440 main INFO  io.ReportGenerator (ReportGenerator.java:132) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:48:22,440 main INFO  a00884836.BCMC (BCMC.java:96) - 2016-10-28T06:48:22.440Z
+2016-10-27 23:48:22,440 main INFO  a00884836.BCMC (BCMC.java:98) - Runtime duration: 234 ms
+2016-10-27 23:50:34,675 main INFO  a00884836.BCMC (BCMC.java:91) - 2016-10-28T06:50:34.675Z
+2016-10-27 23:50:34,832 main INFO  io.ReportGenerator (ReportGenerator.java:60) - Customer report
+2016-10-27 23:50:34,832 main INFO  io.ReportGenerator (ReportGenerator.java:61) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:50:34,832 main INFO  io.ReportGenerator (ReportGenerator.java:62) -   #. ID     First name   Last name    Street                    City         Postal Code  Phone           Email                    Join Date   
+2016-10-27 23:50:34,832 main INFO  io.ReportGenerator (ReportGenerator.java:63) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:50:34,847 main INFO  io.ReportGenerator (ReportGenerator.java:70) -   1. 003997 Fred         Fish         5707 Sidley St            Burnaby      V5J 5E6      (604) 433-5004  fredfish@imperial.net    Feb 22 2008 
+2016-10-27 23:50:34,847 main INFO  io.ReportGenerator (ReportGenerator.java:70) -   2. 002540 Laurie       Nash         2816 Commercial Dr        Vancouver    V5N 4C6      (604) 876-0182  laurieeenash@modern.com  Jul 28 2014 
+2016-10-27 23:50:34,847 main INFO  io.ReportGenerator (ReportGenerator.java:70) -   3. 001824 Conrad       Washington   13479 King George Blvd    Surrey       V3T 2T8      (604) 588-4988  cwash@daytona.net        Jun 12 2011 
+2016-10-27 23:50:34,847 main INFO  io.ReportGenerator (ReportGenerator.java:70) -   4. 004653 Jeanette     Price        21000 Westminster Hwy     Richmond     V6V 2S9      (604) 276-2552  priceizrite@pacific.com  Sep 03 2015 
+2016-10-27 23:50:34,847 main INFO  io.ReportGenerator (ReportGenerator.java:70) -   5. 003947 Mark         Chan         3766 E 1st Ave            Burnaby      V5C 3V9      (604) 293-1022  mchan@hcenter.com        Mar 01 2010 
+2016-10-27 23:50:34,847 main INFO  io.ReportGenerator (ReportGenerator.java:75) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:50:34,847 main INFO  io.ReportGenerator (ReportGenerator.java:101) - Service report
+2016-10-27 23:50:34,847 main INFO  io.ReportGenerator (ReportGenerator.java:102) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:50:34,847 main INFO  io.ReportGenerator (ReportGenerator.java:103) - First name  Last name     Make               Model           Year   Mileage
+2016-10-27 23:50:34,847 main INFO  io.ReportGenerator (ReportGenerator.java:104) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:50:34,847 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Fred        Fish          Suzuki             V-Strom 1000    2007   31680  
+2016-10-27 23:50:34,847 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Laurie      Nash          Honda              CB1100          2015   1106   
+2016-10-27 23:50:34,847 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Laurie      Nash          Ducati             Monster 696     2009   32000  
+2016-10-27 23:50:34,847 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Conrad      Washington    Yamaha             Bolt            2015   751    
+2016-10-27 23:50:34,847 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Conrad      Washington    Harley Davidson    Sportster       2002   36000  
+2016-10-27 23:50:34,847 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Jeanette    Price         Triumph            Tiger           2012   22683  
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Mark        Chan          BMW                R75/5           1972   63000  
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:110) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:115) - Inventory report
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:116) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:117) - Make+Model                   Description                Part#           Price     Quantity
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:118) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                ASA-BOLT                   7129907050        225           19
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                BEARING SHELL              1277690501       4095           18
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                BOLT                       1277722182       8954           10
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                CLIP NUT                   1127070202        111          257
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                CONNECTING ROD WITH BUSHING 1248542008      17835            6
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                COUNTERSUNK HEAD SCREW     32727673989       534          262
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                FILLISTER-HEAD SCREW       32722333066       314          248
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                HEAT EXCHANGER, BLACK      1538524136      19502            1
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                ISA SCREW                  7129905601        353          935
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                ISA SCREW WITH WASHER      7129905537        268          281
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                PLASTIC BUSH               5417674080        214          163
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                RING                       1427677987        351          291
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                SCREW                      6147713360         99          242
+2016-10-27 23:50:34,863 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                SELECTOR ROD               3418522956       4778           21
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                SHIFT LEVER, SILVER        3417688853      16915            5
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                TURN INDICATOR             3138534352       7205           19
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Triumph+Tiger                WASHER                     7727706469       1985           27
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  ASA-BOLT                   7129907050        225          802
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  BELTGUARD, BOTTOM EXT      6628526814       2564           59
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  CIRCLIP                    7119901545        209          600
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  COLLAR SCREW               7727689584        726            4
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  CONNECTING ROD BOLT        1277688360       1781           82
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  COVER FOR FUEL PUMP        6147693055       2864           36
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  ISA SCREW                  7129905769        263          523
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  O-RING                     1447687367        218          830
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  SAFETY CLIP                7119987611        182          593
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  SLEEVE                     1427677988        242           40
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  STRAINER                   6147708314       8028            5
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  TORX BOLT                  2317707433        257          646
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  TURN INDICATOR             3138534353       7205            5
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Yamaha+Bolt                  WASHER                     7119904164        295          380
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 BALANCE ROD WITH ROCKER    1277702426      66603            0
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 BELT WHEEL, REAR           7727678299      56965            2
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 BULB                       3217169203        515          114
+2016-10-27 23:50:34,879 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 COUNTER NUT                32727678101       715           15
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 FLAT NUT                   6637659955        245          583
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 FOOTREST, RIGHT            6717700914       8031            1
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 HEX NUT                    7119904920        237          465
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 ISA SCREW                  7129904261        344          323
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 NIPPLE                     1447687378       3775            2
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 RETAINER SPRING            6717660163        408          138
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 SLEEVE                     32727673990       905           53
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 STOPPER                    6712330765        803           84
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 VOLTAGE REGULATOR          1312346550      18876            8
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Honda+CB1100                 WASHER                     7119907030        695           71
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    BALL PIN                   7147202359        349           20
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    BRACKET, GENERATOR REGULATOR 1317690871       2862           34
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    CLUTCH LEVER               32727705606      9972           17
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    COLLAR BUSH                6717700591       1385           19
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    FILLISTER HEAD SCREW       1117653180        257         1134
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    FOOTREST, LEFT             6717700913       8031           13
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    FUEL PUMP, ELECTRONIC      6148523262      19286            8
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    HOSE RUNNING METER         3547709426       3556           18
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    ISA SCREW                  7129904700        248          795
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    ISA SCREW                  7129903807        227          663
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    LAMP LENS                  3138534351       1862           44
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    SCREW PLUG                 1447687368        272          135
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    SHEET METAL SCREW          7119906189        102          686
+2016-10-27 23:50:34,894 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    SUPPORTING RING            6141182903        987          104
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - BMW+R75/5                    WOODRUFF KEY               1272343243        491          580
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Harley Davidson+Sportster    BELT PULLEY                7727706466      51292            1
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Harley Davidson+Sportster    BINDING HEAD SCREW         6627711971        159         1038
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Harley Davidson+Sportster    BRACKET                    1427653150       4095           48
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Harley Davidson+Sportster    FEED PIPE                  6147708313       4122           10
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Harley Davidson+Sportster    HOSE                       7217686971        779          279
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Harley Davidson+Sportster    HOSE CLAMP                 1731277848        614          264
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Harley Davidson+Sportster    ISA SCREW                  7129904261        344          580
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Harley Davidson+Sportster    OIL FILTER, BLACK          1427719357       1509          175
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           BELTGUARD, TOP EXTERIOR    7727686588       2773           39
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           BOWDEN CAB ADJUSTMENT SCREW 32727678100      1831           20
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           BUSHING                    3417680761        932          201
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           CLAMP WITH MIRROR MOUNT    32728533246      3002           44
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           CLUTCH LEVER ASSEMBLY, ADJUS 32728523463     19337            7
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           FOOTPEG PLATE RIGHT        6718534960      31995            5
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           ISA SCREW                  7129907375        502          444
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           ISA SCREW                  7129906038        343          163
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           OVAL HEAD SCREW            4117672808        295          325
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           PREFORMED SEAL             1447687365        816           66
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           REPAIR KIT FOR JERK DAMPER 7727711036      10888            9
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           SELF-LOCKING HEX NUT       32727680378       378          238
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:126) - Ducati+Monster 696           STEERING DAMPER            1427653149      38809            5
+2016-10-27 23:50:34,910 main INFO  io.ReportGenerator (ReportGenerator.java:132) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:50:34,910 main INFO  a00884836.BCMC (BCMC.java:96) - 2016-10-28T06:50:34.910Z
+2016-10-27 23:50:34,925 main INFO  a00884836.BCMC (BCMC.java:98) - Runtime duration: 235 ms
+2016-10-27 23:50:41,175 main INFO  a00884836.BCMC (BCMC.java:91) - 2016-10-28T06:50:41.159Z
+2016-10-27 23:50:41,300 main INFO  io.ReportGenerator (ReportGenerator.java:101) - Service report
+2016-10-27 23:50:41,300 main INFO  io.ReportGenerator (ReportGenerator.java:102) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:50:41,300 main INFO  io.ReportGenerator (ReportGenerator.java:103) - First name  Last name     Make               Model           Year   Mileage
+2016-10-27 23:50:41,300 main INFO  io.ReportGenerator (ReportGenerator.java:104) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:50:41,300 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Fred        Fish          Suzuki             V-Strom 1000    2007   31680  
+2016-10-27 23:50:41,300 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Laurie      Nash          Honda              CB1100          2015   1106   
+2016-10-27 23:50:41,300 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Laurie      Nash          Ducati             Monster 696     2009   32000  
+2016-10-27 23:50:41,300 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Conrad      Washington    Yamaha             Bolt            2015   751    
+2016-10-27 23:50:41,300 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Conrad      Washington    Harley Davidson    Sportster       2002   36000  
+2016-10-27 23:50:41,315 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Jeanette    Price         Triumph            Tiger           2012   22683  
+2016-10-27 23:50:41,315 main INFO  io.ReportGenerator (ReportGenerator.java:106) - Mark        Chan          BMW                R75/5           1972   63000  
+2016-10-27 23:50:41,315 main INFO  io.ReportGenerator (ReportGenerator.java:110) - ----------------------------------------------------------------------------------------------------------------------------------------------
+2016-10-27 23:50:41,315 main INFO  a00884836.BCMC (BCMC.java:96) - 2016-10-28T06:50:41.315Z
+2016-10-27 23:50:41,315 main INFO  a00884836.BCMC (BCMC.java:98) - Runtime duration: 156 ms

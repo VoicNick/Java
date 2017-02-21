@@ -1,0 +1,60 @@
+2016-11-02 22:58:17,375 main INFO  a00884836.Lab7 (Lab7.java:155) - 2016-11-03T05:58:17.359Z
+2016-11-02 22:58:17,484 main DEBUG sql.Database (Database.java:38) - Loading database properties from db.properties
+2016-11-02 22:58:18,469 main DEBUG sql.Database (Database.java:84) - Found the target table named: A00884836_Customers
+2016-11-02 22:58:18,469 main INFO  a00884836.Lab7 (Lab7.java:192) - Usage:
+2016-11-02 22:58:18,469 main INFO  a00884836.Lab7 (Lab7.java:193) - Lab7 - no argument. Reads the filename customers.txt. It then creates and populates the data into the database table named A00884836_Customers.This only happens if the database table does not exist.
+2016-11-02 22:58:18,469 main INFO  a00884836.Lab7 (Lab7.java:195) - Lab7 <filename> - reads the filename provided an the argument and it creates and populates the data into the database table named A00884836_Customers.This only happens if the database table does not exist.
+2016-11-02 22:58:18,469 main INFO  a00884836.Lab7 (Lab7.java:197) - Usage: Lab7 drop - will drop the database table named A00884836_Customers
+2016-11-02 22:58:18,485 main INFO  a00884836.Lab7 (Lab7.java:186) - 2016-11-03T05:58:18.485Z
+2016-11-02 22:58:18,485 main INFO  a00884836.Lab7 (Lab7.java:188) - Runtime duration: 1126 ms
+2016-11-02 22:58:23,865 main INFO  a00884836.Lab7 (Lab7.java:155) - 2016-11-03T05:58:23.865Z
+2016-11-02 22:58:23,974 main DEBUG sql.Database (Database.java:38) - Loading database properties from db.properties
+2016-11-02 22:58:24,897 main DEBUG sql.Dao (Dao.java:67) - drop table A00884836_Customers
+2016-11-02 22:58:24,897 main INFO  a00884836.Lab7 (Lab7.java:192) - Usage:
+2016-11-02 22:58:24,897 main INFO  a00884836.Lab7 (Lab7.java:193) - Lab7 - no argument. Reads the filename customers.txt. It then creates and populates the data into the database table named A00884836_Customers.This only happens if the database table does not exist.
+2016-11-02 22:58:24,897 main INFO  a00884836.Lab7 (Lab7.java:195) - Lab7 <filename> - reads the filename provided an the argument and it creates and populates the data into the database table named A00884836_Customers.This only happens if the database table does not exist.
+2016-11-02 22:58:24,897 main INFO  a00884836.Lab7 (Lab7.java:197) - Usage: Lab7 drop - will drop the database table named A00884836_Customers
+2016-11-02 22:58:24,897 main INFO  a00884836.Lab7 (Lab7.java:186) - 2016-11-03T05:58:24.897Z
+2016-11-02 22:58:24,897 main INFO  a00884836.Lab7 (Lab7.java:188) - Runtime duration: 1032 ms
+2016-11-02 22:58:28,046 main INFO  a00884836.Lab7 (Lab7.java:155) - 2016-11-03T05:58:28.046Z
+2016-11-02 22:58:28,156 main DEBUG sql.Database (Database.java:38) - Loading database properties from db.properties
+2016-11-02 22:58:29,095 main DEBUG sql.CustomerDao (CustomerDao.java:55) - Creating database table A00884836_Customers
+2016-11-02 22:58:29,095 main DEBUG sql.Dao (Dao.java:41) - create table A00884836_Customers(ID INTEGER, FIRSTNAME VARCHAR(20), LASTNAME VARCHAR(20), STREET VARCHAR(40), CITY VARCHAR(20), POSTALCODE VARCHAR(10), PHONE VARCHAR(15), EMAIL VARCHAR(40), JOINDATE VARCHAR(10), primary key (ID) )
+2016-11-02 22:58:29,110 main DEBUG a00884836.Lab7 (Lab7.java:113) - Inserting the customers
+2016-11-02 22:58:29,110 main DEBUG sql.CustomerDao (CustomerDao.java:79) - insert into A00884836_Customers values('1', 'Fred', 'Fish', '5707 Sidley St', 'Burnaby', 'V5J 5E6', '(604) 433-5004', 'fredfish@imperial.net', '2008-02-22')
+2016-11-02 22:58:29,126 main DEBUG sql.CustomerDao (CustomerDao.java:82) - Adding Customer Customer [id=1, firstName=Fred, lastName=Fish, street=5707 Sidley St, city=Burnaby, postalCode=V5J 5E6, phone=(604) 433-5004, emailAddress=fredfish@imperial.net, joinDate=2008-02-22] was successful
+2016-11-02 22:58:29,126 main DEBUG sql.CustomerDao (CustomerDao.java:79) - insert into A00884836_Customers values('2', 'Laurie', 'Nash', '2816 Commercial Dr', 'Vancouver', 'V5N 4C6', '(604) 876-0182', 'laurieeenash@modern.com', '2014-07-28')
+2016-11-02 22:58:29,141 main DEBUG sql.CustomerDao (CustomerDao.java:82) - Adding Customer Customer [id=2, firstName=Laurie, lastName=Nash, street=2816 Commercial Dr, city=Vancouver, postalCode=V5N 4C6, phone=(604) 876-0182, emailAddress=laurieeenash@modern.com, joinDate=2014-07-28] was successful
+2016-11-02 22:58:29,141 main DEBUG sql.CustomerDao (CustomerDao.java:79) - insert into A00884836_Customers values('3', 'Conrad', 'Washington', '13479 King George Blvd', 'Surrey', 'V3T 2T8', '(604) 588-4988', 'cwash@daytona.net', '2011-06-12')
+2016-11-02 22:58:29,157 main DEBUG sql.CustomerDao (CustomerDao.java:82) - Adding Customer Customer [id=3, firstName=Conrad, lastName=Washington, street=13479 King George Blvd, city=Surrey, postalCode=V3T 2T8, phone=(604) 588-4988, emailAddress=cwash@daytona.net, joinDate=2011-06-12] was successful
+2016-11-02 22:58:29,157 main DEBUG sql.CustomerDao (CustomerDao.java:79) - insert into A00884836_Customers values('4', 'Jeanette', 'Price', '21000 Westminster Hwy', 'Richmond', 'V6V 2S9', '(604) 276-2552', 'priceizrite@pacific.com', '2015-09-03')
+2016-11-02 22:58:29,173 main DEBUG sql.CustomerDao (CustomerDao.java:82) - Adding Customer Customer [id=4, firstName=Jeanette, lastName=Price, street=21000 Westminster Hwy, city=Richmond, postalCode=V6V 2S9, phone=(604) 276-2552, emailAddress=priceizrite@pacific.com, joinDate=2015-09-03] was successful
+2016-11-02 22:58:29,173 main DEBUG sql.CustomerDao (CustomerDao.java:79) - insert into A00884836_Customers values('5', 'Mark', 'Chan', '3766 E 1st Ave', 'Burnaby', 'V5C 3V9', '(604) 293-1022', 'mchan@hc.com', '2010-03-01')
+2016-11-02 22:58:29,188 main DEBUG sql.CustomerDao (CustomerDao.java:82) - Adding Customer Customer [id=5, firstName=Mark, lastName=Chan, street=3766 E 1st Ave, city=Burnaby, postalCode=V5C 3V9, phone=(604) 293-1022, emailAddress=mchan@hc.com, joinDate=2010-03-01] was successful
+2016-11-02 22:58:29,204 main DEBUG sql.CustomerDao (CustomerDao.java:177) - Loaded 5 customer IDs from the database
+2016-11-02 22:58:29,204 main INFO  a00884836.CustomerDaoTester (CustomerDaoTester.java:37) - 1
+2016-11-02 22:58:29,204 main DEBUG sql.CustomerDao (CustomerDao.java:97) - SELECT * FROM A00884836_Customers WHERE ID = '1'
+2016-11-02 22:58:29,220 main INFO  a00884836.CustomerDaoTester (CustomerDaoTester.java:38) - Customer [id=1, firstName=Fred, lastName=Fish, street=5707 Sidley St, city=Burnaby, postalCode=V5J 5E6, phone=(604) 433-5004, emailAddress=fredfish@imperial.net, joinDate=2008-01-22]
+2016-11-02 22:58:29,220 main INFO  a00884836.CustomerDaoTester (CustomerDaoTester.java:37) - 2
+2016-11-02 22:58:29,220 main DEBUG sql.CustomerDao (CustomerDao.java:97) - SELECT * FROM A00884836_Customers WHERE ID = '2'
+2016-11-02 22:58:29,235 main INFO  a00884836.CustomerDaoTester (CustomerDaoTester.java:38) - Customer [id=2, firstName=Laurie, lastName=Nash, street=2816 Commercial Dr, city=Vancouver, postalCode=V5N 4C6, phone=(604) 876-0182, emailAddress=laurieeenash@modern.com, joinDate=2014-06-28]
+2016-11-02 22:58:29,235 main INFO  a00884836.CustomerDaoTester (CustomerDaoTester.java:37) - 3
+2016-11-02 22:58:29,235 main DEBUG sql.CustomerDao (CustomerDao.java:97) - SELECT * FROM A00884836_Customers WHERE ID = '3'
+2016-11-02 22:58:29,251 main INFO  a00884836.CustomerDaoTester (CustomerDaoTester.java:38) - Customer [id=3, firstName=Conrad, lastName=Washington, street=13479 King George Blvd, city=Surrey, postalCode=V3T 2T8, phone=(604) 588-4988, emailAddress=cwash@daytona.net, joinDate=2011-05-12]
+2016-11-02 22:58:29,251 main INFO  a00884836.CustomerDaoTester (CustomerDaoTester.java:37) - 4
+2016-11-02 22:58:29,251 main DEBUG sql.CustomerDao (CustomerDao.java:97) - SELECT * FROM A00884836_Customers WHERE ID = '4'
+2016-11-02 22:58:29,267 main INFO  a00884836.CustomerDaoTester (CustomerDaoTester.java:38) - Customer [id=4, firstName=Jeanette, lastName=Price, street=21000 Westminster Hwy, city=Richmond, postalCode=V6V 2S9, phone=(604) 276-2552, emailAddress=priceizrite@pacific.com, joinDate=2015-08-03]
+2016-11-02 22:58:29,267 main INFO  a00884836.CustomerDaoTester (CustomerDaoTester.java:37) - 5
+2016-11-02 22:58:29,267 main DEBUG sql.CustomerDao (CustomerDao.java:97) - SELECT * FROM A00884836_Customers WHERE ID = '5'
+2016-11-02 22:58:29,282 main INFO  a00884836.CustomerDaoTester (CustomerDaoTester.java:38) - Customer [id=5, firstName=Mark, lastName=Chan, street=3766 E 1st Ave, city=Burnaby, postalCode=V5C 3V9, phone=(604) 293-1022, emailAddress=mchan@hc.com, joinDate=2010-02-01]
+2016-11-02 22:58:29,282 main INFO  a00884836.Lab7 (Lab7.java:186) - 2016-11-03T05:58:29.282Z
+2016-11-02 22:58:29,282 main INFO  a00884836.Lab7 (Lab7.java:188) - Runtime duration: 1236 ms
+2016-11-02 22:58:34,528 main INFO  a00884836.Lab7 (Lab7.java:155) - 2016-11-03T05:58:34.528Z
+2016-11-02 22:58:34,622 main DEBUG sql.Database (Database.java:38) - Loading database properties from db.properties
+2016-11-02 22:58:35,591 main DEBUG sql.Dao (Dao.java:67) - drop table A00884836_Customers
+2016-11-02 22:58:35,591 main INFO  a00884836.Lab7 (Lab7.java:192) - Usage:
+2016-11-02 22:58:35,591 main INFO  a00884836.Lab7 (Lab7.java:193) - Lab7 - no argument. Reads the filename customers.txt. It then creates and populates the data into the database table named A00884836_Customers.This only happens if the database table does not exist.
+2016-11-02 22:58:35,591 main INFO  a00884836.Lab7 (Lab7.java:195) - Lab7 <filename> - reads the filename provided an the argument and it creates and populates the data into the database table named A00884836_Customers.This only happens if the database table does not exist.
+2016-11-02 22:58:35,591 main INFO  a00884836.Lab7 (Lab7.java:197) - Usage: Lab7 drop - will drop the database table named A00884836_Customers
+2016-11-02 22:58:35,606 main INFO  a00884836.Lab7 (Lab7.java:186) - 2016-11-03T05:58:35.606Z
+2016-11-02 22:58:35,606 main INFO  a00884836.Lab7 (Lab7.java:188) - Runtime duration: 1078 ms
