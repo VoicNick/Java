@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=toAdd
+comment0.target=boolean\ add(java.lang.Object)
+comment0.text=\r\n\ Adds\ a\ new\ element\ at\ the\ end\ of\ the\ list.\r\n\ @param\ the\ object\ to\ add\r\n\ @return\ true\ if\ element\ successfully\ added,\ otherwise\ false\r\n
+comment1.params=index
+comment1.target=java.lang.Object\ get(int)
+comment1.text=\r\n\ Gets\ the\ object\ at\ the\ specified\ index.\r\n\ @param\ index\ value\ of\ object\ to\ get\r\n\ @return\ object\ at\ that\ index\r\n
+comment2.params=index
+comment2.target=java.lang.Object\ remove(int)
+comment2.text=\r\n\ Removes\ specified\ object\ from\ list.\r\n\ @param\ index\ value\ of\ object\ to\ remove\r\n\ @return\ the\ object\ removed\r\n
+comment3.params=
+comment3.target=int\ size()
+comment3.text=\r\n\ Returns\ size\ of\ the\ list\r\n\ @return\ number\ of\ elements\ in\ the\ list\r\n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\r\n\ @return\ true\ if\ the\ list\ has\ no\ elements,\ false\ otherwise\r\n
+numComments=5

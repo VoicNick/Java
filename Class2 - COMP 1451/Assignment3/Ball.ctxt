@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pieceDisplay\ owner
+comment0.target=Ball(java.lang.String,\ Player)
+comment0.text=\r\n\ Constructor\ method\r\n\ \r\n\ @param\ \ \ pieceDisplay\ \ \ \ the\ String\ display\ of\ the\ piece\ on\ the\ board\r\n
+comment1.params=from\ to
+comment1.target=boolean\ isLegalMove(Location,\ Location)
+comment1.text=\r\n\ Implementation\ of\ the\ abstract\ method\ that\ determines\ if\ the\ move\ is\ valid\r\n
+numComments=2

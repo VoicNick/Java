@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Deck()
+comment0.text=\r\n\ Default\ constructor\ with\ no\ parameters\r\n
+comment1.params=cardToAdd
+comment1.target=void\ addOneCardToDeck(Card)
+comment1.text=\r\n\ Method\ that\ adds\ one\ card\ to\ the\ deck.\ It\ verifies\ for\ card\ to\ be\ non-null\ and\ \r\n\ for\ the\ deck\ to\ be\ not\ full.\r\n\ \r\n\ @param\ \ \ cardToAdd\ \ \ the\ Card\ object\ to\ add\r\n
+comment2.params=
+comment2.target=void\ addAllCardsToDeck()
+comment2.text=\r\n\ Method\ that\ adds\ all\ the\ cards\ to\ the\ deck.\ This\ method\ ensures\ the\ deck\ will\ have\r\n\ ONLY\ and\ ALL\ the\ valid\ cards\ in\ the\ deck\ after\ its\ execution.\r\n
+comment3.params=
+comment3.target=Card\ getFirstCard()
+comment3.text=\r\n\ Accessor\ method\ that\ returns\ the\ first\ card\ from\ the\ deck.\ If\ the\ deck\ is\ empty\r\n\ the\ method\ returns\ null\r\n\ \r\n\ @return\ \ the\ first\ Card\ in\ the\ deck\ or\ null\ if\ deck\ is\ empty\r\n
+comment4.params=
+comment4.target=void\ showAllCardsInDeck()
+comment4.text=\r\n\ Accessor\ method\ that\ displays\ all\ the\ cards\ from\ the\ deck.\r\n
+comment5.params=
+comment5.target=void\ shuffleDeck()
+comment5.text=\r\n\ Method\ to\ shuffle\ the\ cards\ in\ the\ arraylist\ so\ that\ they\ are\ randomized\r\n
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=pieceDisplay\ owner
+comment0.target=GamePiece(java.lang.String,\ Player)
+comment0.text=\r\n\ Constructor\ GamePiece\ objects\r\n
+comment1.params=
+comment1.target=java.lang.String\ getPieceDisplay()
+comment1.text=\r\n\ Accessor\ method\ for\ the\ display\ string\r\n\ \r\n\ @return\ \ the\ display\ string\r\n
+comment2.params=
+comment2.target=Player\ getOwner()
+comment2.text=\r\n\ Accessor\ method\ for\ the\ owner\ of\ the\ piece\r\n\ \r\n\ @return\ \ the\ owner\ of\ the\ piece\r\n
+comment3.params=from\ to
+comment3.target=boolean\ isLegalMove(Location,\ Location)
+comment3.text=\r\n\ Checks\ a\ proposed\ move\ to\ determine\ if\ it\ is\ legal\ for\ \r\n\ this\ game\ piece.\ A\ legal\ move\ is\ to\ either\ a\ higher-numbered\ row\ \r\n\ or\ to\ a\ higher-numbered\ column,\ or\ both.\ Any\ other\ move\ is\ not\ legal.\r\n\ \r\n\ @param\ \ \ source\ location\r\n\ @param\ \ \ destination\ location\r\n\ @return\ \ true\ if\ the\ proposed\ move\ is\ legal\r\n
+numComments=4

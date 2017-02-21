@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SpamFilter()
+comment1.params=item
+comment1.target=boolean\ isSpam(MailItem)
+comment1.text=\r\n\ Method\ that\ verifies\ if\ an\ MailItem\ is\ spam.\r\n\ This\ is\ based\ on\ the\ start\ keywords\ and\ contains\ keywords\ defined\r\n\ at\ the\ beginning\ of\ this\ class.\r\n\ \r\n\ @param\ \ \ item\ \ \ \ the\ MailItem\ to\ test\ if\ it's\ spam\r\n\ @return\ \ wether\ the\ MailItem\ is\ or\ not\ spam\r\n
+numComments=2

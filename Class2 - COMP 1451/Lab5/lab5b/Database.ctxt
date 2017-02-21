@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Database()
+comment0.text=\r\n\ Default\ constructor\r\n
+comment1.params=personToAdd
+comment1.target=void\ addPerson(Person)
+comment1.text=\r\n\ Method\ that\ adds\ a\ person,\ Student\ or\ Instructor\ to\ the\ database\r\n\ \r\n\ @param\ \ \ personToAdd\ the\ person\ to\ add\r\n
+comment2.params=
+comment2.target=void\ showDatabase()
+comment2.text=\r\n\ Method\ that\ displays\ the\ names\ and\ email\ addresses\ of\ everyone\ \r\n\ in\ the\ database.\r\n
+numComments=3

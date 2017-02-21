@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=pieceDisplay\ location
+comment0.target=GamePiece(java.lang.String,\ Location)
+comment0.text=\r\n\ Constructor\ method\r\n\ \r\n\ @param\ \ \ pieceDisplay\ \ \ \ the\ display\ string\ for\ this\ piece\r\n\ @param\ \ \ location\ \ \ \ \ \ \ \ the\ location\ of\ this\ piece\r\n
+comment1.params=pieceDisplay
+comment1.target=void\ setPieceDisplay(java.lang.String)
+comment1.text=\r\n\ Mutator\ method\ for\ the\ pieceDisplay\ field\r\n\ \r\n\ @param\ \ \ pieceDisplay\ \ \ \ the\ display\ string\ for\ this\ piece\r\n
+comment2.params=location
+comment2.target=void\ setLocation(Location)
+comment2.text=\r\n\ Mutator\ method\ for\ the\ location\ field\r\n\ \r\n\ @param\ \ \ location\ \ \ \ the\ location\ of\ this\ piece\ on\ the\ board\r\n
+comment3.params=
+comment3.target=java.lang.String\ getPieceDisplay()
+comment3.text=\r\n\ Accessor\ method\ for\ the\ pieceDisplay\ field\r\n\ \r\n\ @return\ \ the\ pieceDisplay,\ the\ display\ string\ for\ this\ piece\r\n
+comment4.params=
+comment4.target=Location\ getLocation()
+comment4.text=\r\n\ Accessor\ method\ for\ the\ location\ field\r\n\ \r\n\ @return\ \ the\ location\ of\ this\ piece\r\n
+comment5.params=a\ b
+comment5.target=boolean\ isLegalMove(Location,\ Location)
+comment5.text=\r\n\ Method\ that\ determinsed\ if\ a\ move\ is\ valid.\ To\ be\ implemented\ by\ the\ \r\n\ subclasses\ individually.\r\n
+numComments=6

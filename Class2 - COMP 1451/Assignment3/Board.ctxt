@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=rows\ columns
+comment0.target=Board(int,\ int)
+comment0.text=\r\n\ Constructor\ method\r\n\ \r\n\ @param\ \ \ rows,\ columns\ \ \ the\ rows\ and\ columns\ of\ the\ board\r\n
+comment1.params=row\ column\ piece
+comment1.target=boolean\ setPieceOnBoard(int,\ int,\ GamePiece)
+comment1.text=\r\n\ Mutator\ method\ for\ the\ board\ using\ the\ row\ and\ columns\ values\r\n\ \r\n\ @param\ \ \ row,\ column\ the\ row\ and\ column\ coordinates\r\n\ @param\ \ \ piece\ \ \ the\ piece\ to\ set\ at\ the\ coordinates\r\n
+comment2.params=player
+comment2.target=int\ countPieces(Player)
+comment2.text=\r\n\ Method\ that\ counts\ the\ total\ count\ of\ pieces\ for\ a\ specific\ player\r\n\ \r\n\ @param\ \ \ player\ \ the\ player\ to\ count\ the\ pieces\ for\r\n\ @return\ \ the\ total\ count\ of\ pieces\ that\ this\ player\ has\ on\ the\ board\r\n
+comment3.params=
+comment3.target=void\ showBoard()
+comment3.text=\r\n\ Method\ that\ shows\ the\ board\ on\ the\ display\r\n
+comment4.params=l
+comment4.target=boolean\ isValidLocation(Location)
+comment4.text=\r\n\ Method\ that\ determinets\ if\ a\ location\ is\ valid\ on\ the\ current\ board\r\n\ \r\n\ @return\ \ wether\ a\ location\ is\ valid\ or\ not\ on\ the\ board\r\n
+comment5.params=from\ to
+comment5.target=boolean\ isSameLocation(Location,\ Location)
+comment5.text=\r\n\ Method\ that\ determinets\ if\ two\ locations\ are\ the\ same\r\n\ \r\n\ @return\ \ wether\ two\ locations\ are\ the\ same\r\n
+comment6.params=from\ to
+comment6.target=boolean\ clearPath(Location,\ Location)
+comment6.text=\r\n\ Method\ that\ determinets\ if\ the\ path\ is\ clear\ between\ two\ locations\r\n\ \r\n\ @return\ \ wether\ the\ path\ is\ clear\ between\ two\ locations\r\n
+comment7.params=from\ to\ current
+comment7.target=boolean\ movePiece(Location,\ Location,\ Player)
+comment7.text=\r\n\ Method\ that\ checks\ if\ a\ piece\ move\ is\ possible,\ if\ so\ it\ moves\ a\ piece\ from\r\n\ the\ 'from'\ location\ into\ the\ 'to'\ location.\r\n\ \r\n\ @param\ \ \ from,\ to\ the\ from\ and\ to\ locations\r\n\ @return\ \ wheter\ the\ move\ was\ successfull\r\n\ @throws\ \ InvalidMoveException\ custom\ exception\ in\ case\ the\ move\ is\ not\ valid\r\n
+numComments=8

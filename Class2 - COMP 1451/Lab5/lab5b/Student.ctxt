@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Student()
+comment0.text=\r\n\ Default\ constructor\r\n
+comment1.params=firstName\ lastName\ email
+comment1.target=Student(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Non-default\ constructor\r\n
+comment2.params=courseName\ grade
+comment2.target=void\ addCourse(java.lang.String,\ double)
+comment2.text=\r\n\ Mutator\ method\ for\ adding\ a\ course\ and\ a\ grade\ to\ the\ courses\ \r\n\ \r\n\ @param\ \ \ courseName\ \ the\ course\ name\ to\ add\r\n\ @param\ \ \ grade\ \ \ \ \ \ \ the\ grade\ the\ student\ got\ for\ this\ course\r\n
+comment3.params=
+comment3.target=double\ getAverageGrade()
+comment3.text=\r\n\ Method\ that\ calculates\ and\ returns\ the\ student's\ average\ grade\r\n\ \r\n\ @return\ \ the\ student's\ average\ grade\r\n
+numComments=4

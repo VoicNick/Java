@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Board()
+comment0.text=\r\n\ Constructor\ method\r\n
+comment1.params=
+comment1.target=void\ populateBoard()
+comment1.text=\r\n\ Method\ that\ populates\ the\ board.\ For\ now\ there\ is\ only\ one\ type\ of\ pieces\r\n\ on\ the\ board,\ GamePiece\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Method\ that\ returns\ a\ string\ containing\ the\ display\ of\ the\ board\r\n\ \r\n\ @return\ \ the\ string\ containing\ the\ display\ of\ the\ board\r\n
+comment3.params=
+comment3.target=void\ showBoard()
+comment3.text=\r\n\ Method\ that\ shows\ the\ board\ on\ the\ display\r\n
+comment4.params=l
+comment4.target=boolean\ isValidLocation(Location)
+comment4.text=\r\n\ Method\ that\ determinets\ if\ a\ location\ is\ valid\ on\ the\ current\ board\r\n\ \r\n\ @return\ \ wether\ a\ location\ is\ valid\ or\ not\ on\ the\ board\r\n
+comment5.params=from\ to
+comment5.target=boolean\ isSameLocation(Location,\ Location)
+comment5.text=\r\n\ Method\ that\ determinets\ if\ two\ locations\ are\ the\ same\r\n\ \r\n\ @return\ \ wether\ two\ locations\ are\ the\ same\r\n
+comment6.params=from\ to
+comment6.target=void\ movePiece(Location,\ Location)
+comment6.text=\r\n\ Method\ that\ checks\ if\ a\ piece\ move\ is\ possible,\ if\ so\ it\ moves\ a\ piece\ from\r\n\ the\ 'from'\ location\ into\ the\ 'to'\ location.\r\n\ \r\n\ @param\ \ \ from,\ to\ the\ from\ and\ to\ locations\r\n\ @throws\ \ InvalidMoveException\ custom\ exception\ in\ case\ the\ move\ is\ not\ valid\r\n
+numComments=7

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ValidCards()
+comment0.text=\r\n\ The\ default\ constructor\ with\ no\ parameters\r\n
+comment1.params=
+comment1.target=java.lang.String[]\ getDescriptions()
+comment1.text=\r\n\ Accessor\ method\ that\ returns\ all\ the\ possible\ and\ valid\ descriptions\r\n\ \r\n\ @return\ \ String\ array\ containing\ all\ the\ possible\ and\ valid\ descriptions\r\n
+comment2.params=
+comment2.target=java.lang.String[]\ getSuits()
+comment2.text=\r\n\ Accessor\ method\ that\ returns\ all\ the\ possible\ and\ valid\ suits\r\n\ \r\n\ @return\ \ String\ array\ contining\ all\ the\ possible\ and\ valid\ suits\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDefaultDescription()
+comment3.text=\r\n\ Accessor\ method\ for\ the\ default\ description\ that\ a\ card\ would\ get\ for\ no\ or\ non-valid\ parameters\r\n\ \r\n\ @return\ \ the\ default\ description\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDefaultSuit()
+comment4.text=\r\n\ Accessor\ method\ for\ the\ default\ suit\ that\ a\ card\ would\ get\ for\ no\ or\ non-valid\ parameters\r\n\ \r\n\ @return\ \ the\ default\ suit\r\n
+comment5.params=description
+comment5.target=int\ setValue(java.lang.String)
+comment5.text=\r\n\ Method\ that\ calculates\ and\ returns\ the\ face\ value\ of\ a\ card.\r\n\ \r\n\ @description\ the\ card\ description\r\n\ @return\ \ the\ face\ value\ of\ the\ card.\r\n
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pay()
+comment0.text=\r\n\ Default\ constructor\ for\ the\ Pay\ class\r\n
+comment1.params=
+comment1.target=void\ calculatePay()
+comment1.text=\r\n\ Method\ that\ calculates\ and\ displays\ the\ daily\ pay\ and\ the\ total\ pay\r\n
+numComments=2

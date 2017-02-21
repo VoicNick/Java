@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SaleItem()
+comment0.text=\r\n\ Default\ constructor\r\n
+comment1.params=description\ weightInKilos\ costInUSD
+comment1.target=SaleItem(java.lang.String,\ double,\ double)
+comment1.text=\r\n\ Non-default\ constructor\r\n
+comment2.params=costInUSD
+comment2.target=void\ setCostInUSD(double)
+comment2.text=\r\n\ Mutator\ method\ for\ setting\ the\ cost\ in\ USD\ of\ the\ Item\ for\ sale\r\n\ \r\n\ @param\ \ \ costInUSD\ \ \ the\ cost\ in\ USD\ of\ item\ for\ sale\r\n
+comment3.params=
+comment3.target=double\ getCostInUSD()
+comment3.text=\r\n\ Accessor\ method\ for\ the\ costInUSD\r\n\ \r\n\ @return\ \ the\ cost\ in\ USD\ of\ the\ item\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Overriding\ the\ toString\ method\ to\ return\ the\ item\ description\ and\ cost\r\n\ \r\n\ @return\ \ the\ item\ description\ and\ cost\r\n
+numComments=5

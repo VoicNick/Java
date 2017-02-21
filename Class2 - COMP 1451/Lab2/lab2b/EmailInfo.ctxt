@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EmailInfo()
+comment0.text=\r\n\ This\ is\ the\ default\ constructor\ that\ initialize\ our\ address\ book\r\n\ by\ creating\ a\ new\ HashMap\ object\ with\ its\ default\ constructor.\r\n
+comment1.params=name
+comment1.target=java.lang.String\ formatName(java.lang.String)
+comment1.text=\r\n\ This\ method\ is\ used\ to\ keep\ a\ consistent\ string\ format\ for\ the\ string\ key\ of\ our\ HashMap.\r\n\ It\ returns\ the\ string\ parameter\ formated\ like\ this\:\r\n\ -first\ letter\ is\ converted\ to\ upper\ case\r\n\ -all\ remaining\ letters\ to\ lower\ case\r\n\ \r\n\ @param\ \ \ name\ \ \ \ the\ name\ to\ be\ formatted\r\n\ @return\ \ the\ formatted\ version\ of\ the\ name\r\n
+comment2.params=name\ email
+comment2.target=void\ addFriend(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ This\ method\ adds\ a\ friend\ record\ to\ our\ address\ book.\ The\ name\ of\ hte\ friend\ \r\n\ is\ properlly\ formatted\ to\ keep\ consistency.\r\n\ \r\n\ @param\ \ \ name\ \ \ \ the\ name\ of\ the\ friend\ to\ add\r\n\ @param\ \ \ email\ \ \ the\ email\ of\ the\ friend\ to\ add\r\n
+comment3.params=name
+comment3.target=void\ removeFriend(java.lang.String)
+comment3.text=\r\n\ This\ method\ removes\ a\ friend\ record\ form\ our\ address\ book\ if\ he\ exists\r\n\ \r\n\ @param\ \ \ name\ \ \ \ the\ name\ of\ the\ friend\ to\ remove\r\n
+comment4.params=name
+comment4.target=java.lang.String\ getAddress(java.lang.String)
+comment4.text=\r\n\ This\ method\ returns\ the\ email\ address\ of\ a\ friend\ based\ on\ his\ name\r\n\ \r\n\ @param\ \ \ name\ \ \ \ the\ name\ to\ search\r\n
+comment5.params=email
+comment5.target=void\ findFriends(java.lang.String)
+comment5.text=\r\n\ This\ method\ finds\ and\ displays\ friends\ based\ on\ their\ email\ address.\ \r\n\ There\ might\ be\ more\ than\ one\ friend\ using\ the\ same\ email.\r\n\ \r\n\ @param\ \ \ email\ \ \ the\ email\ to\ search\r\n
+comment6.params=
+comment6.target=void\ listAll()
+comment6.text=\r\n\ List\ all\ friends\ in\ the\ address\ book\ and\ their\ email\ addresses\r\n
+numComments=7

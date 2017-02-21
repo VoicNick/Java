@@ -1,0 +1,47 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CalcEngineTest()
+comment0.text=\r\n\ Default\ constructor\ for\ test\ class\ CalcEngineTest\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment10.params=
+comment10.target=void\ testSubstractingTwoDigitNumbers()
+comment10.text=\r\n\ This\ method\ tests\ substracting\ two\ digit\ numbers.\r\n\ It\ tests\ 25-13\ and\ asserts\ it\ equals\ 12\r\n
+comment11.params=
+comment11.target=void\ testAdditionAfterSubstraction()
+comment11.text=\r\n\ This\ method\ tests\ an\ addition\ operation\ after\ a\ substraction\ using\r\n\ the\ clear()\ method\ in\ between.\r\n\ It\ calculates\ 9-4\ \=\ then\ calls\ clear()\ method\ and\ then\r\n\ calculates\ 3+4\ and\ asserts\ if\ result\ equals\ 7\r\n
+comment12.params=
+comment12.target=void\ testSubstractionAfterAddition()
+comment12.text=\r\n\ This\ method\ tests\ a\ substraction\ operation\ after\ an\ addition\ using\r\n\ the\ clear()\ method\ in\ between.\r\n\ It\ calculates\ 3+4\ \=\ then\ calls\ clear()\ method\ and\ then\r\n\ calculates\ 9-4\ and\ asserts\ if\ result\ equals\ 5\r\n
+comment13.params=
+comment13.target=void\ testAddingNegativeNumbers()
+comment13.text=\r\n\ This\ tests\ the\ plus()\ method\ with\ adding\ two\ negative\ numbers.\r\n\ It\ calculates\ (-3)\ +\ (-4)\ \=\ and\ asserts\ the\ result\ equals\ to\ -7\r\n
+comment14.params=
+comment14.target=void\ testSubstractingNegativeNumbers()
+comment14.text=\r\n\ This\ tests\ the\ minus()\ method\ with\ substracting\ two\ negative\ numbers.\r\n\ It\ calculates\ (-9)\ -\ (-4)\ \=\ and\ asserts\ the\ result\ equals\ to\ -5\r\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testPlusSingleDigit()
+comment3.text=\r\n\ This\ is\ to\ test\ the\ plus()\ method\ with\ single\ digits\r\n\ clears\ the\ calculator\ and\ then\ calculates\ 3+4\ evaluates\ if\ result\ is\ corect,\ 7\r\n
+comment4.params=
+comment4.target=void\ testTwoConsecutiveAdditions()
+comment4.text=\r\n\ This\ is\ to\ test\ two\ consecutive\ additions\ with\ clear()\ method\ call\ in\ between.\r\n\ It\ evaluates\ the\ second\ addition\ with\ data\ 3+4\ asserts\ result\ equals\ to\ 7\r\n\ \r\n
+comment5.params=
+comment5.target=void\ testAddingThreeNumbers()
+comment5.text=\r\n\ This\ method\ evaluates\ the\ usage\ of\ the\ plus()\ method\ twice\ \r\n\ It\ calculates\ 3+4+5\ and\ asserts\ that\ to\ value\ 15\r\n
+comment6.params=
+comment6.target=void\ testAddingTwoDigitNumbers()
+comment6.text=\r\n\ This\ tests\ adding\ two\ digit\ numbers.\r\n\ 12\ +\ 25\ and\ it\ asserts\ the\ result\ with\ 37\r\n
+comment7.params=
+comment7.target=void\ testMinusSingleDigit()
+comment7.text=\r\n\ This\ method\ tests\ single\ digit\ substractions.\r\n\ It\ calculates\ 9-4\ and\ assert\ the\ result\ to\ 5\r\n
+comment8.params=
+comment8.target=void\ testTwoConscutiveSubstractions()
+comment8.text=\r\n\ This\ method\ calculates\ two\ consecutive\ substractions.\ It\ uses\ the\ clear\r\n\ method\ in\ between\ to\ reset\ teh\ state\ of\ the\ calculator.\r\n\ On\ second\ operation\ 9-5\ asserts\ that\ equals\ to\ 4\r\n
+comment9.params=
+comment9.target=void\ testSubstractingThreeNumbers()
+comment9.text=\r\n\ This\ method\ tests\ substracting\ three\ numbers\r\n\ 9-2-3\ asserts\ teh\ result\ equals\ to\ 4\r\n
+numComments=15
